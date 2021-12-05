@@ -2,7 +2,7 @@
 
 ### [Live Site](https://clone-fcc92.web.app)
 
-![Title-image](https://github.com/nitish1310/amazon-clone/blob/master/public/amazon-clone.JPG)
+
 
 ## Introduction
 This is a code repository for the Amazon Clone. 
@@ -24,7 +24,7 @@ The features include:
 To run the application locally; clone the repo, install dependencies and run the app.
 
 ```
-$ git clone https://github.com/nitish1310/amazon-clone
+$ git clone https://github.com/omtripathi999/Amazon-clone
 $ cd amazon-clone
 $ yarn && yarn start
 ```
